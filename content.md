@@ -7,7 +7,7 @@ To access a property, we use the name of a variable which references the object,
 For example, the `pathlib.Path` class can be used to represent a file path. The `Path` class has a property called `name` which returns the name of the file or directory represented by the `Path` object:
 
 ```py-cell
-# Don't worry too much about the details of the `Path` class for now
+# Don't worry too much about how we import `Path` or create a `Path` object
 # Focus on how we access the `name` property and what happens when we do so
 from pathlib import Path # Import the Path class from the pathlib module
 
