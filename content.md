@@ -1,4 +1,4 @@
-In Python, a property is a special kind of attribute that, when accessed, will execute some code and return a value. This returned value is usually derived from other attributes of the object and, as such describe some aspect of the state of the object.
+In Python, a property is a special kind of attribute that, when accessed, will execute some code and return a value. This returned value is usually derived from other attributes of the object and, as such, describe some aspect of the state of the object.
 
 # Accessing Properties
 
