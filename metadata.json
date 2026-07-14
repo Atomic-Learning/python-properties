@@ -10,10 +10,11 @@
     ],
     "duration": 3,
     "prerequisites": [
-        "programming-object-attributes"
+        "programming-object-attributes",
+        "python-importing-options"
     ],
     "related": [
         "programming-paths",
-        "python-importing-options"
+        "programming-calling-functions"
     ]
 }
